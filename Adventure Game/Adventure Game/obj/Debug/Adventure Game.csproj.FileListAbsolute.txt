@@ -1,0 +1,30 @@
+C:\Users\2003189\source\repos\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe.config
+C:\Users\2003189\source\repos\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe
+C:\Users\2003189\source\repos\Adventure Game\Adventure Game\bin\Debug\Adventure Game.pdb
+C:\Users\2003189\source\repos\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csprojResolveAssemblyReference.cache
+C:\Users\2003189\source\repos\Adventure Game\Adventure Game\obj\Debug\Adventure_Game.frm.resources
+C:\Users\2003189\source\repos\Adventure Game\Adventure Game\obj\Debug\Adventure_Game.Properties.Resources.resources
+C:\Users\2003189\source\repos\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csproj.GenerateResource.Cache
+C:\Users\2003189\source\repos\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csproj.CoreCompileInputs.cache
+C:\Users\2003189\source\repos\Adventure Game\Adventure Game\obj\Debug\Adventure Game.exe
+C:\Users\2003189\source\repos\Adventure Game\Adventure Game\obj\Debug\Adventure Game.pdb
+C:\Users\2003189\Google Drive\enginnering and computer programming\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe.config
+C:\Users\2003189\Google Drive\enginnering and computer programming\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe
+C:\Users\2003189\Google Drive\enginnering and computer programming\Adventure Game\Adventure Game\bin\Debug\Adventure Game.pdb
+C:\Users\2003189\Google Drive\enginnering and computer programming\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csprojResolveAssemblyReference.cache
+C:\Users\2003189\Google Drive\enginnering and computer programming\Adventure Game\Adventure Game\obj\Debug\Adventure_Game.frm.resources
+C:\Users\2003189\Google Drive\enginnering and computer programming\Adventure Game\Adventure Game\obj\Debug\Adventure_Game.Properties.Resources.resources
+C:\Users\2003189\Google Drive\enginnering and computer programming\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csproj.GenerateResource.Cache
+C:\Users\2003189\Google Drive\enginnering and computer programming\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csproj.CoreCompileInputs.cache
+C:\Users\2003189\Google Drive\enginnering and computer programming\Adventure Game\Adventure Game\obj\Debug\Adventure Game.exe
+C:\Users\2003189\Google Drive\enginnering and computer programming\Adventure Game\Adventure Game\obj\Debug\Adventure Game.pdb
+G:\My Drive\enginnering and computer programming\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe.config
+G:\My Drive\enginnering and computer programming\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe
+G:\My Drive\enginnering and computer programming\Adventure Game\Adventure Game\bin\Debug\Adventure Game.pdb
+G:\My Drive\enginnering and computer programming\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csprojAssemblyReference.cache
+G:\My Drive\enginnering and computer programming\Adventure Game\Adventure Game\obj\Debug\Adventure_Game.frm.resources
+G:\My Drive\enginnering and computer programming\Adventure Game\Adventure Game\obj\Debug\Adventure_Game.Properties.Resources.resources
+G:\My Drive\enginnering and computer programming\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csproj.GenerateResource.cache
+G:\My Drive\enginnering and computer programming\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csproj.CoreCompileInputs.cache
+G:\My Drive\enginnering and computer programming\Adventure Game\Adventure Game\obj\Debug\Adventure Game.exe
+G:\My Drive\enginnering and computer programming\Adventure Game\Adventure Game\obj\Debug\Adventure Game.pdb
